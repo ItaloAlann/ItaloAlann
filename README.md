@@ -11,8 +11,10 @@
     <img src="https://img.shields.io/badge/GitHub-ITALOALANN-181717?style=for-the-badge&logo=github" />
   </a>
 
+
   <a href="https://www.instagram.com/italo__alann?igsh=aW4yZDI2bDBrenRv">
     <img src="https://img.shields.io/badge/Instagram-italo_alann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
 
   <a href="https://www.linkedin.com/in/italo-alan-9ab415195/?skipRedirect=true">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
