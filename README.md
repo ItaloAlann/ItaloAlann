@@ -15,9 +15,10 @@
     <img src="https://img.shields.io/badge/Instagram-italo_alann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
   <a href="https://www.linkedin.com/in/italo-alan-9ab415195/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/GitHub-ITALOALANN-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-alan-9ab415195/?skipRedirect=true" />
   </a>
 </p>
+
 
 ---
 
