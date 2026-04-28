@@ -15,10 +15,9 @@
     <img src="https://img.shields.io/badge/Instagram-italo_alann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
   <a href="https://www.linkedin.com/in/italo-alan-9ab415195/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-alan-9ab415195/?skipRedirect=true" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
@@ -27,7 +26,8 @@
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend
 
